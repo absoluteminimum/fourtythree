@@ -1,6 +1,6 @@
 {
   "name": "xtpoint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Describe xtpoint here",
   "main": "lib/index.js",
   "jsnext:main": "es/index.js",
@@ -23,7 +23,7 @@
   "devDependencies": {
     "nwb": "0.12.x"
   },
-  "author": "",
+  "author": "Mario Scheliga <marsch.js@gmail.com>",
   "homepage": "",
   "license": "MIT",
   "repository": ""
